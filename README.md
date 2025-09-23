@@ -68,7 +68,7 @@
 
 ## 📈 GitHub Stats  
 
-![Esa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsaKris&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsaKris&layout=compact&theme=radical)  
+![Esa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsaKris&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsaKris&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=EsaKris&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)  
 
 ---
@@ -83,9 +83,7 @@
 - 📧 **Email**: stylezgraphics@gmail.com  
 - 📱 **Phone**: +234 915 577 5787  
 - 📍 **Location**: Benue, Makurdi  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
 
 ---
 
