@@ -68,8 +68,7 @@
 
 ## 📈 GitHub Stats  
 
-![Esa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsaKris&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsaKris&layout=compact&theme=radical)  
+![Esa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsaKris&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsaKris&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=EsaKris&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)  
 
 ---
