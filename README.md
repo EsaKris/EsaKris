@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Ekre Christian Esa  
-💻 **UI/UX Designer | Full-Stack Developer | Social Media Manager**  
+# Hi, I'm Esa Kris
+💻 **UI/UX Designer | Full-Stack Developer | Python Developer | Social Media Manager**  
 🚀 Passionate about crafting seamless user experiences, scalable systems & innovative digital solutions.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=EsaKris&color=brightgreen)  
-[![GitHub followers](https://img.shields.io/github/followers/EsaKris?label=Follow&style=social)](https://github.com/EsaKris)  
+![Profile Views](https://komarev.com/ghpvc/?username=EsaKris&color=brightgreen)  [![GitHub followers](https://img.shields.io/github/followers/EsaKris?label=Follow&style=social)](https://github.com/EsaKris)  
 
 ---
 
