@@ -83,9 +83,8 @@
 - 📧 **Email**: stylezgraphics@gmail.com  
 - 📱 **Phone**: +234 915 577 5787  
 - 📍 **Location**: Benue, Makurdi
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="esa-kris-727ab138b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/esa-kris-727ab138b?trk=profile-badge">Esa Kris</a></div>
               
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( )  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/esakris )  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
 
 ---
 
