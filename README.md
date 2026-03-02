@@ -4,6 +4,8 @@
   </a>
 </p>
 
+
+
 # Hi, I'm Esa Kris
 💻 **UI/UX Designer | Full-Stack Developer | Python Developer | Social Media Manager**  
 🚀 Passionate about crafting seamless user experiences, scalable systems & innovative digital solutions.  
