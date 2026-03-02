@@ -1,4 +1,8 @@
-[![LinkedIn Banner]([https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let's%20Connect%20on%20LinkedIn!&fontAlign=50&fontSize=30&fontColor=ffffff&height=80&section=header](https://media.licdn.com/dms/image/v2/D4D16AQHZTO7X9YCFWw/profile-displaybackgroundimage-shrink_200_800/B4DZw5T3kGJkAU-/0/1770488037844?e=1773878400&v=beta&t=woxUKm6XtETW5idKS5SRu46hb6eNZNOOjP_iXZhLOCs))](https://www.linkedin.com/in/esakris)
+<p align="center">
+  <a href="https://www.linkedin.com/in/esakris/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHZTO7X9YCFWw/profile-displaybackgroundimage-shrink_200_800/B4DZw5T3kGJkAU-/0/1770488037844?e=1773878400&v=beta&t=woxUKm6XtETW5idKS5LoMw" />
+  </a>
+</p>
 
 # Hi, I'm Esa Kris
 💻 **UI/UX Designer | Full-Stack Developer | Python Developer | Social Media Manager**  
