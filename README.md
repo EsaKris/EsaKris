@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/esakris/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHZTO7X9YCFWw/profile-displaybackgroundimage-shrink_200_800/B4DZw5T3kGJkAU-/0/1770488037844?e=1773878400&v=beta&t=woxUKm6XtETW5idKS5LoMw" />
+    <img src="[https://media.licdn.com/dms/image/v2/D4D16AQHZTO7X9YCFWw/profile-displaybackgroundimage-shrink_200_800/B4DZw5T3kGJkAU-/0/1770488037844?e=1773878400&v=beta&t=woxUKm6XtETW5idKS5LoMw](https://media.licdn.com/dms/image/v2/D4D16AQHZTO7X9YCFWw/profile-displaybackgroundimage-shrink_200_800/B4DZw5T3kGJkAU-/0/1770488037844?e=1773878400&v=beta&t=woxUKm6XtETW5idKS5SRu46hb6eNZNOOjP_iXZhLOCs)" />
   </a>
 </p>
 
